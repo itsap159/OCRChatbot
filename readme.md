@@ -33,7 +33,7 @@ All the necessary dependencies are listed in the `requirements.txt` file. You ca
 pip install -r requirements.txt
 ```
 To run the code do the following:
-'''bash
+```bash
 streamlit run main.py
 ```
 Note : The page will be slow to read, as the processing and indexing will be done before that.
